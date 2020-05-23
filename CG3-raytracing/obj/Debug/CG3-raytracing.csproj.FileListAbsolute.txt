@@ -1,0 +1,32 @@
+D:\work\CG3-raytracing\CG3-raytracing\bin\Debug\CG3-raytracing.exe.config
+D:\work\CG3-raytracing\CG3-raytracing\bin\Debug\CG3-raytracing.exe
+D:\work\CG3-raytracing\CG3-raytracing\bin\Debug\CG3-raytracing.pdb
+D:\work\CG3-raytracing\CG3-raytracing\bin\Debug\OpenTK.dll
+D:\work\CG3-raytracing\CG3-raytracing\bin\Debug\OpenTK.GLControl.dll
+D:\work\CG3-raytracing\CG3-raytracing\bin\Debug\OpenTK.pdb
+D:\work\CG3-raytracing\CG3-raytracing\bin\Debug\OpenTK.xml
+D:\work\CG3-raytracing\CG3-raytracing\bin\Debug\OpenTK.GLControl.pdb
+D:\work\CG3-raytracing\CG3-raytracing\bin\Debug\OpenTK.GLControl.xml
+D:\work\CG3-raytracing\CG3-raytracing\obj\Debug\CG3-raytracing.csprojAssemblyReference.cache
+D:\work\CG3-raytracing\CG3-raytracing\obj\Debug\CG3_raytracing.Form1.resources
+D:\work\CG3-raytracing\CG3-raytracing\obj\Debug\CG3_raytracing.Properties.Resources.resources
+D:\work\CG3-raytracing\CG3-raytracing\obj\Debug\CG3-raytracing.csproj.GenerateResource.cache
+D:\work\CG3-raytracing\CG3-raytracing\obj\Debug\CG3-raytracing.csproj.CopyComplete
+D:\work\CG3-raytracing\CG3-raytracing\obj\Debug\CG3-raytracing.exe
+D:\work\CG3-raytracing\CG3-raytracing\obj\Debug\CG3-raytracing.pdb
+D:\work\CG3-raytracing — копия\CG3-raytracing\bin\Debug\CG3-raytracing.exe.config
+D:\work\CG3-raytracing — копия\CG3-raytracing\bin\Debug\CG3-raytracing.exe
+D:\work\CG3-raytracing — копия\CG3-raytracing\bin\Debug\CG3-raytracing.pdb
+D:\work\CG3-raytracing — копия\CG3-raytracing\bin\Debug\OpenTK.dll
+D:\work\CG3-raytracing — копия\CG3-raytracing\bin\Debug\OpenTK.GLControl.dll
+D:\work\CG3-raytracing — копия\CG3-raytracing\bin\Debug\OpenTK.pdb
+D:\work\CG3-raytracing — копия\CG3-raytracing\bin\Debug\OpenTK.xml
+D:\work\CG3-raytracing — копия\CG3-raytracing\bin\Debug\OpenTK.GLControl.pdb
+D:\work\CG3-raytracing — копия\CG3-raytracing\bin\Debug\OpenTK.GLControl.xml
+D:\work\CG3-raytracing — копия\CG3-raytracing\obj\Debug\CG3-raytracing.csprojAssemblyReference.cache
+D:\work\CG3-raytracing — копия\CG3-raytracing\obj\Debug\CG3_raytracing.Form1.resources
+D:\work\CG3-raytracing — копия\CG3-raytracing\obj\Debug\CG3_raytracing.Properties.Resources.resources
+D:\work\CG3-raytracing — копия\CG3-raytracing\obj\Debug\CG3-raytracing.csproj.GenerateResource.cache
+D:\work\CG3-raytracing — копия\CG3-raytracing\obj\Debug\CG3-raytracing.csproj.CopyComplete
+D:\work\CG3-raytracing — копия\CG3-raytracing\obj\Debug\CG3-raytracing.exe
+D:\work\CG3-raytracing — копия\CG3-raytracing\obj\Debug\CG3-raytracing.pdb
